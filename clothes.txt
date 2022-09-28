@@ -1,0 +1,2 @@
+1 narutoTshirt 2 1 2.5 tshirt XS orange
+1 kakashiTshirt 2 1 5.5 tshirt XS gray
